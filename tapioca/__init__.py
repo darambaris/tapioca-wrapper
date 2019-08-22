@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 __author__ = 'Filipe Ximenes'
 __email__ = 'filipeximenes@gmail.com'
-__version__ = 'fix-iterator-list'
+__version__ = 'quintoandar-1.5.1'
 
 
 from .adapters import (
